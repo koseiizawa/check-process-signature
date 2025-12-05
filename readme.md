@@ -1,4 +1,4 @@
-# 🛡️ macOS Suspicious Process Checker
+# 🛡️ macOS Suspicious Process Checker (Shell Script)
 
 A lightweight Swift-based macOS utility that inspects currently running processes and reports any suspicious behavior.
 The tool is designed for developers, security researchers, and power users who want quick visibility into unusual processes, unexpected binaries, or unsigned executables running on their system.
