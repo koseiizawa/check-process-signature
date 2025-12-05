@@ -4,6 +4,12 @@
 # Lists only unsigned or suspicious processes
 # ==========================================
 
+# git clone https://github.com/koseiizawa/check-process-signature.git
+# cd check-process-signature
+# chmod +x chceck_sig.sh
+# ./check_sig.sh
+
+
 echo "Scanning for unsigned or invalidly signed processes..."
 echo "--------------------------------------------------------"
 
